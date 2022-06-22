@@ -285,7 +285,7 @@ a {
   background-color: white;
   border-radius: 20px;
   box-shadow: 0 0 16px #0000002e;
-  transition: transform 0.5s ease-in-out;
+  transition: transform 0.3s ease-in-out;
   cursor: pointer;
   max-height: 200px;
   padding: 5px;
@@ -293,7 +293,7 @@ a {
 }
 
 .contenair:hover {
-  transform: scale(0.9);
+  transform: scale(1.03);
 }
 
 .title-contenair {
@@ -351,7 +351,7 @@ a {
 }
 
 .contenair-right:hover {
-  transform: scale(0.9);
+  transform: scale(1.03);
 }
 
 .img-populaires {
@@ -407,7 +407,7 @@ a {
 .box-4:hover,
 .box-5:hover,
 .box-6:hover {
-  transform: scale(0.9);
+  transform: scale(1.03);
 }
 
 .box-2 {
