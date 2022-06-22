@@ -178,6 +178,7 @@ a {
   margin-right: 20px;
   position: absolute;
   left: -3px;
+  transition: transform 0.4s ease-in-out;
 }
 
 .title-content {
@@ -206,6 +207,7 @@ a {
   background-color: #0065fc;
   color: white;
   transform: scale(1.2) rotate(-15deg);
+  transition: transform 0.4s ease-in-out;
 }
 
 .filter-contenair:hover {
